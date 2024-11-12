@@ -1,11 +1,1 @@
-{
-    "name": "Troy",
-    "games": ["Everquest"],
-    "pets": [
-        {
-            "name": "Mary",
-            "type": "dog"
-        }
-    ],
-    "hobbies": ["programming", "guitar", "gaming"]
-}
+
