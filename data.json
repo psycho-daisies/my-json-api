@@ -7,3 +7,12 @@
     }],
     "hobbies": ["programming", "guitar", "gaming"]
 }
+{
+    "name": "Big Pete",
+    "games": ["Everquest"],
+    "pets": [{
+        "name": "Fred",
+        "type": "dog"
+    }],
+    "hobbies": ["guitar", "fishing"]
+}
