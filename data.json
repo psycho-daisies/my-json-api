@@ -1,8 +1,8 @@
 {
-    "name": "Troy",
+    "name": "Joe Public",
     "games": ["Everquest"],
     "pets": [{
-        "name": "Mary",
+        "name": "Skip",
         "type": "dog"
     }],
     "hobbies": ["programming", "guitar", "gaming"]
