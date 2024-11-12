@@ -5,4 +5,4 @@ This is a simple example project demonstrating how to use a JSON file as a mock 
 - You can access the JSON data at `https://psycho-daisies.github.io/my-json-api/data.json`.
 
 ## Usage
-Clone the repository and use the JSON data for your mock API needs.
+
